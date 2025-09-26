@@ -10,5 +10,8 @@ public class AppointmentBook {
     public int findFreeBlock(int period, int duration) {
         return 0;
     }
+    public boolean makeAppointment(int startPeriod, int endPeriod, int duration){
+        return false;
+    }
 }
 
